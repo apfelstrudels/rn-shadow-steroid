@@ -1,0 +1,7 @@
+{:deps
+ {org.clojure/clojure                 {:mvn/version "1.10.2"}
+  org.clojure/clojurescript           {:mvn/version "1.10.741"}
+  reagent/reagent                     {:mvn/version "1.0.0"}
+  re-frame/re-frame                   {:mvn/version "1.2.0"}
+  re-frame-steroid/re-frame-steroid   {:mvn/version "0.1.1"}}
+ :paths ["src"]}
