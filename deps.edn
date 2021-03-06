@@ -3,5 +3,5 @@
   org.clojure/clojurescript           {:mvn/version "1.10.741"}
   reagent/reagent                     {:mvn/version "1.0.0"}
   re-frame/re-frame                   {:mvn/version "1.2.0"}
-  re-frame-steroid/re-frame-steroid   {:mvn/version "0.1.1"}}
+  apfelstrudels/rn-frame-steroid      {:git/url "https://github.com/apfelstrudels/re-frame-steroid.git", :sha "29a6cef0d897391afea987ae14d8a4b6379c6608"}}
  :paths ["src"]}
